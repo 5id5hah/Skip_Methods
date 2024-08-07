@@ -73,9 +73,12 @@ public class Character_Skip {
         }
     }
 }
-Use Cases
-Data Cleaning: Remove unwanted characters or substrings from data before processing.
-Text Parsing: Skip specific patterns or markers while parsing large text files.
-Input Validation: Filter out unwanted characters from user input.
-Preprocessing: Prepare strings for further analysis by removing unnecessary parts.
-Pattern Matching: Simplify pattern matching by excluding certain substrings from consideration.
+
+
+
+Use Cases:
+🧹 Data Cleaning: Remove unwanted characters or substrings from data before processing.
+📄 Text Parsing: Skip specific patterns or markers while parsing large text files.
+✅ Input Validation: Filter out unwanted characters from user input.
+🔄 Preprocessing: Prepare strings for further analysis by removing unnecessary parts.
+🔍 Pattern Matching: Simplify pattern matching by excluding certain substrings from consideration.
